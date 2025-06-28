@@ -1,0 +1,4 @@
+John Doe|password|0|Silver
+Jane Doe|password|0|Silver
+hello|123|0|Silver
+hellol|123|0|Silver
