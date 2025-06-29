@@ -72,3 +72,12 @@ Each state represents a different screen or mode of the app, implementing the Ap
   - addCustomer(name, password)
 
   - deleteCustomer()
+
+## Class Diagram
+
+![image](https://github.com/user-attachments/assets/f5b3a782-b8fb-4c22-bd69-a49fe4068019)
+
+## Use-Case Diagram
+
+![image](https://github.com/user-attachments/assets/26c3b6e3-9306-4d69-bcb2-26d8665d2ca5)
+
